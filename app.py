@@ -3,7 +3,7 @@ import pandas as pd
 import io
 
 # Title of the app
-st.title("Excel File Editor")
+st.title("GreenAccuracy Editor")
 
 # Step 1: File Upload
 uploaded_file = st.file_uploader("Upload an Excel file", type=["xlsx"])
