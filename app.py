@@ -82,7 +82,7 @@ def validate_against_historical(df, historical_ranges):
                 if isinstance(weight, (int, float)) and (weight < min_weight or weight > max_weight):
                     warnings.append(
                         f"Row {idx + 1}: Weight {weight} kg for '{material}' + '{form}' "
-                        f"is outside normal range ({min_weight}–{max_weight} kg)."
+                        f"is outside historical range ({min_weight}–{max_weight} kg)."
                     )
     return warnings
 
@@ -99,11 +99,15 @@ if uploaded_file is not None:
         data.append(row)
     df = pd.DataFrame(data, columns=headers)
 
+    # Filter out empty rows (all key columns NaN)
+    key_columns = ["Packaging Material", "Packaging Form", "Further Details", "Weight (kg)"]
+    filtered_df = df.dropna(subset=key_columns, how='all')
+
     st.write("Original Data:")
-    st.dataframe(df)
+    st.dataframe(filtered_df)
 
     st.write("Edit the data below:")
-    edited_df = st.data_editor(df, num_rows="dynamic", use_container_width=True)
+    edited_df = st.data_editor(filtered_df, num_rows="dynamic", use_container_width=True)
 
     # Validation Logic (existing)
     def validate_data(df):
@@ -182,7 +186,7 @@ if uploaded_file is not None:
         st.success("Data is valid!")
 
     if historical_warnings:
-        st.warning("Suspect Outlier Warnings:")
+        st.warning("Historical Range Warnings:")
         for warning in historical_warnings:
             st.write(f"- {warning}")
 
@@ -196,7 +200,7 @@ if uploaded_file is not None:
             for cell in row:
                 cell.value = None
 
-        # Write new data
+        # Write new data (using edited_df, which is based on filtered_df)
         for index, row in edited_df.iterrows():
             for col_idx, value in enumerate(row):
                 packaging_sheet.cell(row=header_row + index + 2, column=col_idx + 1, value=value)
