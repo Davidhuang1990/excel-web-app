@@ -82,7 +82,7 @@ def validate_against_historical(df, historical_ranges):
                 if isinstance(weight, (int, float)) and (weight < min_weight or weight > max_weight):
                     warnings.append(
                         f"Row {idx + 1}: Weight {weight} kg for '{material}' + '{form}' "
-                        f"is outside historical range ({min_weight}–{max_weight} kg)."
+                        f"is outside normal range ({min_weight}–{max_weight} kg)."
                     )
     return warnings
 
@@ -186,7 +186,7 @@ if uploaded_file is not None:
         st.success("Data is valid!")
 
     if historical_warnings:
-        st.warning("Historical Range Warnings:")
+        st.warning("Suspicious Outlier Warnings:")
         for warning in historical_warnings:
             st.write(f"- {warning}")
 
