@@ -1,395 +1,201 @@
 Packaging Material,Packaging Form,Further Details,Weight (kg)
-Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,3076.8
-Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,17805.0
-Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,14100.0
-Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,78660.0
-Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,52290.0
-Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,50920.0
-Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,460.0
-Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,172800.0
-Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,378.0
-Paper,"Product packaging (rigid, excluding beverage bottle)",Paper,2931.0
-Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,149.0
-Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,2.0
-Wood,Transport and protective packaging ,N/A,11340.0
-Wood,Transport and protective packaging ,N/A,22800.0
-Plastic,Product packaging (flexible),LDPE,16360.0
-Paper,Transport and protective packaging ,Corrugated board,4216.0
-Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,10120.4
-Plastic,Transport and protective packaging ,Others,1264.8
-Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,1333.2
-Plastic,"Product packaging (rigid, excluding beverage bottle)",LDPE,266.64
-Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,1196.4
-Plastic,"Product packaging (rigid, excluding beverage bottle)",LDPE,239.28
-Plastic,Transport and protective packaging ,HDPE,2368.0
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
+Plastic,Transport and protective packaging,HDPE,1970.7016909220729
+Composite,Beverage carton,,262.7747401781535
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,45777.547575373996
+Paper,Transport and protective packaging,Paper,2828.9639885359643
+Plastic,Product packaging (flexible),HDPE,1086.032157157696
+Plastic,Transport and protective packaging,Others,509.46104247282494
+Plastic,Product packaging (flexible),HDPE,3899.0202886785705
+Wood,Transport and protective packaging,N/A,200000.0
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,78.48124495590328
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,4632.14111521225
+Plastic,"Product packaging (rigid, excluding beverage bottle)",LDPE,1071.8196655665893
+Composite,Beverage carton,,2506.6642777430684
+Wood,Transport and protective packaging,N/A,827.3293736997095
+Plastic,Product packaging (flexible),LDPE,6274.968340865802
+Plastic,Product packaging (flexible),Others,65.83749215397407
+Plastic,Product packaging (flexible),Others,1023.4562797865128
+Plastic,Transport and protective packaging,HDPE,30.98483451745441
+Paper,Transport and protective packaging,Paper,674.3377372071974
+Paper,Transport and protective packaging,Paper,849.6210371632089
+Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,2171.5177193441245
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,2149.0851685562016
+Plastic,Transport and protective packaging,HDPE,1213.4946565631362
+Plastic,Product packaging (flexible),Others,877.9520684299174
+Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,33.17714156309204
+Paper,Transport and protective packaging,Paper,110.44968239970049
+Wood,Transport and protective packaging,N/A,17662.617090406424
+Plastic,Transport and protective packaging,Others,141.03389626925718
+Paper,Transport and protective packaging,Paper,102.91678790831594
+Paper,"Product packaging (rigid, excluding beverage bottle)",Paper,2696.06363968355
+Plastic,"Product packaging (rigid, excluding beverage bottle)",Others,38478.26008888002
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,49.26097137373902
+Plastic,Product packaging (flexible),LDPE,395.05048262342495
+Plastic,Transport and protective packaging,HDPE,102.87027794978923
+Glass,Product packaging (excluding beverage bottle),Clear,2951.271308053719
+Composite,Beverage carton,,7390.890645062424
+Wood,Transport and protective packaging,N/A,4035.0844207800683
+Plastic,Transport and protective packaging,Others,1257.2756823036643
+Plastic,Transport and protective packaging,Others,483.5633542367408
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,1013.0569440242601
+Paper,"Product packaging (rigid, excluding beverage bottle)",Corrugated board,376.4083217647578
+Plastic,Product packaging (flexible),LDPE,478.6340841124231
+Paper,Transport and protective packaging,Corrugated board,1287.4224852335694
+Plastic,"Product packaging (rigid, excluding beverage bottle)",Others,183.7836871542618
+Glass,Product packaging (excluding beverage bottle),Green,561.3617370001294
+Plastic,Product packaging (flexible),HDPE,12342.418492130288
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,810.4000940721031
+Plastic,"Product packaging (rigid, excluding beverage bottle)",Others,237.21840773351
+Paper,Transport and protective packaging,Paper,2551.9869308929856
+Paper,Transport and protective packaging,Corrugated board,80.17176541145193
+Plastic,"Product packaging (rigid, excluding beverage bottle)",Others,20.466735319355646
+Composite,Beverage carton,,253.31039574276105
+Wood,Transport and protective packaging,N/A,344.9661071538539
+Glass,Product packaging (excluding beverage bottle),Clear,3010.8405099859847
+Wood,Transport and protective packaging,N/A,6195.078022037334
+Paper,"Product packaging (rigid, excluding beverage bottle)",Paper,562.0022299111563
+Glass,Product packaging (excluding beverage bottle),Clear,580.7417623103435
+Plastic,"Product packaging (rigid, excluding beverage bottle)",LDPE,7264.56269046274
+Plastic,Product packaging (flexible),HDPE,13805.380835249442
+Plastic,Product packaging (flexible),Others,226.96508141476897
+Plastic,Product packaging (flexible),Others,51392.566701892625
+Plastic,Transport and protective packaging,LDPE,13819.31179566896
+Plastic,Product packaging (flexible),HDPE,266.31000666150516
+Wood,Transport and protective packaging,N/A,682.12715011614
+Plastic,"Product packaging (rigid, excluding beverage bottle)",LDPE,46351.61254226059
+Plastic,Product packaging (flexible),Others,418.84617665126535
+Paper,"Product packaging (rigid, excluding beverage bottle)",Paper,16.65002956215821
+Plastic,"Product packaging (rigid, excluding beverage bottle)",LDPE,1100.6181135637753
+Wood,Transport and protective packaging,N/A,4973.457561259987
+Plastic,Product packaging (flexible),HDPE,731.4910229969034
+Others,Others,Biodegradable/compostable,1238.6696431474747
+Wood,Transport and protective packaging,N/A,4001.1031659821747
+Plastic,"Product packaging (rigid, excluding beverage bottle)",Others,1411.1914910478265
+Plastic,Product packaging (flexible),HDPE,2871.0567795681845
+Wood,Transport and protective packaging,N/A,2790.8858837057924
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,10657.667202859706
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,2680.55807709415
+Wood,Transport and protective packaging,N/A,111.06359440886183
+Plastic,Product packaging (flexible),HDPE,3578.2610954248803
+Plastic,Transport and protective packaging,LDPE,414.5254897648279
+Plastic,Product packaging (flexible),LDPE,1661.0355673042786
+Wood,Transport and protective packaging,N/A,115.59544176176927
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,14240.435404089427
+Plastic,Transport and protective packaging,HDPE,54315.24227822799
+Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,1012.1476366794805
+Plastic,Transport and protective packaging,HDPE,915.8409677792214
+Plastic,Product packaging (flexible),HDPE,398.71221601389635
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,13.019886130881856
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,17661.328136190445
+Wood,Transport and protective packaging,N/A,46205.20789103507
+Paper,"Product packaging (rigid, excluding beverage bottle)",Corrugated board,32081.475802401954
+Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,287.6068788388633
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,11202.302712641733
+Wood,Transport and protective packaging,N/A,24482.639454766413
+Paper,"Product packaging (rigid, excluding beverage bottle)",Paper,455.3035088789066
+Wood,Transport and protective packaging,N/A,14927.457992394922
+Paper,Transport and protective packaging,Paper,1143.681453314567
+Paper,"Product packaging (rigid, excluding beverage bottle)",Paper,2097.1461116252362
+Paper,Transport and protective packaging,Corrugated board,845.3188481429677
+Plastic,Transport and protective packaging,LDPE,213.4833051373146
+Plastic,Transport and protective packaging,HDPE,72025.43153318804
+Plastic,Transport and protective packaging,HDPE,5122.288849437106
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,4163.503585872996
+Plastic,Product packaging (flexible),Others,1070.099008310127
+Paper,"Product packaging (rigid, excluding beverage bottle)",Corrugated board,182.2703923897281
+Glass,Product packaging (excluding beverage bottle),Green,41246.9789604251
+Plastic,Transport and protective packaging,HDPE,2463.0748569155676
+Paper,Transport and protective packaging,Corrugated board,211.7823738266974
+Wood,Transport and protective packaging,N/A,1785.3583368176535
+Plastic,Transport and protective packaging,LDPE,460.9977610198218
+Plastic,"Product packaging (rigid, excluding beverage bottle)",Others,1648.5402115978106
+Plastic,"Product packaging (rigid, excluding beverage bottle)",LDPE,11033.690864592236
+Plastic,Transport and protective packaging,Others,422.09758815319856
+Glass,Product packaging (excluding beverage bottle),Green,33.56317573093192
+Wood,Transport and protective packaging,N/A,9311.038437686306
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,790.1868789144077
+Wood,Transport and protective packaging,N/A,45322.37451733197
+Wood,Transport and protective packaging,N/A,21088.94460207804
+Plastic,"Product packaging (rigid, excluding beverage bottle)",LDPE,188.87101457435156
+Wood,Transport and protective packaging,N/A,257.5805300593015
+Paper,"Product packaging (rigid, excluding beverage bottle)",Paper,25.750208466724846
+Wood,Transport and protective packaging,N/A,19682.681558376036
+Wood,Transport and protective packaging,N/A,23.811895358153325
+Plastic,Product packaging (flexible),Others,13936.63762657649
+Plastic,Product packaging (flexible),LDPE,5124.182109742352
+Plastic,Product packaging (flexible),Others,201.56915540422074
+Paper,"Product packaging (rigid, excluding beverage bottle)",Corrugated board,1001.7469977648642
+Wood,Transport and protective packaging,N/A,16607.891727815902
+Wood,Transport and protective packaging,N/A,618.5060463838838
+Plastic,Product packaging (flexible),HDPE,1716.744362408348
+Paper,"Product packaging (rigid, excluding beverage bottle)",Corrugated board,1124.6023680788858
+Paper,"Product packaging (rigid, excluding beverage bottle)",Paper,1151.7298960358269
+Plastic,Product packaging (flexible),HDPE,2969.047824227045
+Plastic,"Product packaging (rigid, excluding beverage bottle)",Others,81337.70100309487
+Plastic,"Product packaging (rigid, excluding beverage bottle)",Others,236.34790050864828
+Glass,Product packaging (excluding beverage bottle),Clear,2284.3089625420134
+Plastic,"Product packaging (rigid, excluding beverage bottle)",LDPE,1667.3548462325523
+Paper,Transport and protective packaging,Corrugated board,59.99739123470608
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,5260.665516766419
+Plastic,"Product packaging (rigid, excluding beverage bottle)",LDPE,241.33543662505267
+Composite,Beverage carton,,190.53622886680628
+Composite,Beverage carton,,77.38395419755206
+Plastic,Transport and protective packaging,LDPE,234.53130524823672
+Paper,"Product packaging (rigid, excluding beverage bottle)",Paper,301.6765996797812
+Plastic,Product packaging (flexible),HDPE,44.646592201934716
+Plastic,Product packaging (flexible),LDPE,31868.39130036401
+Plastic,Product packaging (flexible),LDPE,34.44519048504457
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,93.36704679884349
+Paper,Transport and protective packaging,Paper,1602.2590846820597
+Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,2167.284981491731
+Plastic,Transport and protective packaging,HDPE,1066.8269873492457
+Glass,Product packaging (excluding beverage bottle),Clear,2168.615874383211
+Plastic,Transport and protective packaging,HDPE,922.5789789950431
+Plastic,Product packaging (flexible),HDPE,8.129267307083568
+Paper,"Product packaging (rigid, excluding beverage bottle)",Paper,180.80378141957942
+Others,Others,Biodegradable/compostable,1108.1945066696694
+Plastic,Product packaging (flexible),HDPE,1204.6702867501547
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,586.3709346284265
+Wood,Transport and protective packaging,N/A,44.779616852962334
+Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,1394.9184913711542
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,3068.2960935610377
+Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,9144.369633062806
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,23926.50199919679
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,209.39320376780034
+Paper,Transport and protective packaging,Corrugated board,597.2113848146581
+Plastic,"Product packaging (rigid, excluding beverage bottle)",LDPE,1379.840147680589
+Wood,Transport and protective packaging,N/A,24404.570503715593
+Plastic,Product packaging (flexible),LDPE,2508.4632657444
+Plastic,Transport and protective packaging,Others,16061.445804119365
+Plastic,Transport and protective packaging,Others,3595.6654296680276
+Paper,"Product packaging (rigid, excluding beverage bottle)",Paper,12402.212304902869
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,1749.2310895455562
+Plastic,"Product packaging (rigid, excluding beverage bottle)",LDPE,5460.548443461508
+Paper,Transport and protective packaging,Corrugated board,5691.362949150032
+Plastic,Transport and protective packaging,Others,66496.55916934834
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,2253.721219240728
+Plastic,Product packaging (flexible),Others,34104.981854049154
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,28487.796772602334
+Plastic,Transport and protective packaging,HDPE,69.39376927410133
+Glass,Product packaging (excluding beverage bottle),Green,742.9728301215538
+Plastic,Product packaging (flexible),LDPE,18757.44379637932
+Plastic,Product packaging (flexible),HDPE,1083.1207326934514
+Plastic,Product packaging (flexible),LDPE,2455.8756433529534
+Glass,Product packaging (excluding beverage bottle),Green,28.829498053595454
+Wood,Transport and protective packaging,N/A,6830.895325675115
+Plastic,Transport and protective packaging,HDPE,118652.03405361593
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,121.06049750592207
+Wood,Transport and protective packaging,N/A,27545.254008216518
+Paper,Transport and protective packaging,Corrugated board,215.74321990370484
+Paper,Transport and protective packaging,Corrugated board,8056.467337259027
+Plastic,Transport and protective packaging,HDPE,684.9614204638905
+Plastic,"Product packaging (rigid, excluding beverage bottle)",HDPE,379.7392235235741
+Wood,Transport and protective packaging,N/A,224.58501814590105
+Glass,Product packaging (excluding beverage bottle),Green,1214.0111283675856
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,412.6995429206841
+Plastic,Product packaging (flexible),HDPE,5282.041297832801
+Plastic,Product packaging (flexible),LDPE,617.5251553944222
+Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,95.8726470396394
+Wood,Transport and protective packaging,N/A,107.70003934271433
+Wood,Transport and protective packaging,N/A,1009.0332078186447
+Wood,Transport and protective packaging,N/A,181.23031552776033
