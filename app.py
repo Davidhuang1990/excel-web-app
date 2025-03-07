@@ -7,7 +7,8 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import OneHotEncoder
 import numpy as np
 
-st.title("DataVerify")
+# Custom title with green color
+st.markdown("<h1 style='color: green;'>Dataverify</h1>", unsafe_allow_html=True)
 
 # Define validation mappings (unchanged)
 VALIDATION_MAPPINGS = {
