@@ -199,3 +199,15 @@ Metal,"Product packaging (rigid, excluding beverage bottle)",Steel,95.8726470396
 Wood,Transport and protective packaging,N/A,107.70003934271433
 Wood,Transport and protective packaging,N/A,1009.0332078186447
 Wood,Transport and protective packaging,N/A,181.23031552776033
+Glass,Product packaging (excluding beverage bottle),Green,2000.0
+Metal,Food can,Tin,3000.0
+Paper,Product packaging ,Paperboard,5000.0
+Metal,"Product packaging (excluding beverage can, food can)",Others ,8000.0
+Wood,Transport and protective packaging ,N/A,4000.0
+Wood,Transport and protective packaging ,N/A,1000.0
+Glass,Product packaging (excluding beverage bottle),Green,2000.0
+Metal,Food can,Tin,3000.0
+Paper,Product packaging ,Paperboard,5000.0
+Metal,"Product packaging (excluding beverage can, food can)",Others ,8000.0
+Wood,Transport and protective packaging ,N/A,10000.0
+Wood,Transport and protective packaging ,N/A,5000.0
